@@ -1,1 +1,1 @@
-# Flights Prices Prediction Project using Flask
+# Flights Prices Prediction ML Project using Flask
